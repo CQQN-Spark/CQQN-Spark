@@ -1,66 +1,102 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CQQN-Spark.CQQN-Spark">
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Spark....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Spark....;Welcome+to+my+GitHub!&center=true&size=30&color=61dafb&vCenter=true&width=500&height=50">
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CQQN-Spark&theme=react&border=61dafb&hide_border=true" alt="CQQN-Spark" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=CQQN-Spark&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CQQN-Spark&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=CQQN-Spark&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CQQN-Spark.CQQN-Spark" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/CQQN-Spark?label=Follow&style=social" alt="Followers" />
 </p>
 
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/CQQN-Spark/CQQN-Spark" title="CQQN-Spark"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=CQQN-Spark&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CQQN-Spark/dark-mode" title="dark-mode"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=dark-mode&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/CQQN-Spark/Sparks-shader" title="Sparks-shader"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=Sparks-shader&theme=react&border_color=61dafb&border_radius=10"></a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats Cards -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CQQN-Spark&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" />
+</a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CQQN-Spark&theme=react&hide_border=true&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CQQN-Spark&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb" />
+</a>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CQQN-Spark&theme=react-dark&bg_color=0D1117&hide_border=true&color=61dafb&line=61dafb&point=61dafb" width="100%"/>
+
 </div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/CQQN-Spark?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Repositories
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-//iaiaaj//
+<!-- Repository Pins -->
+<a href="https://github.com/CQQN-Spark/CQQN-Spark">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=CQQN-Spark&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+</a>
+<a href="https://github.com/CQQN-Spark/dark-mode">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=dark-mode&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+</a>
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+<br/>
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+<a href="https://github.com/CQQN-Spark/Sparks-shader">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=Sparks-shader&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+</a>
+<a href="https://github.com/CQQN-Spark?tab=repositories">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true&description=Explore+more+repositories...&title=More+Projects" />
+</a>
 
--->
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<!-- Tech Stack Icons -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<!-- Social Links -->
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/yourprofile">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/CQQN-Spark/CQQN-Spark/blob/output/github-contribution-grid-snake.svg)
+
+<p>⭐️ From <a href="https://github.com/CQQN-Spark">CQQN-Spark</a></p>
+
+</div>
