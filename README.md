@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CQQN-Spark.CQQN-Spark" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=CQQN-Spark&style=flat-square&color=blue" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/CQQN-Spark?label=Follow&style=social" alt="Followers" />
 </p>
 
@@ -38,21 +38,23 @@
 <div align="center">
 
 <!-- Repository Pins -->
-<a href="https://github.com/CQQN-Spark/CQQN-Spark">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=CQQN-Spark&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
-</a>
-<a href="https://github.com/CQQN-Spark/dark-mode">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=dark-mode&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/CQQN-Spark/CQQN-Spark">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=CQQN-Spark&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/CQQN-Spark/dark-mode">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=dark-mode&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-<br/>
-
-<a href="https://github.com/CQQN-Spark/Sparks-shader">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=Sparks-shader&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
-</a>
-<a href="https://github.com/CQQN-Spark?tab=repositories">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true&description=Explore+more+repositories...&title=More+Projects" />
-</a>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/CQQN-Spark/Sparks-shader">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=Sparks-shader&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/CQQN-Spark?tab=repositories">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CQQN-Spark&repo=CQQN-Spark&theme=react&bg_color=0D1117&title_color=61dafb&hide_border=true&description=Explore+all+my+repositories" />
+  </a>
+</div>
 
 </div>
 
@@ -79,15 +81,10 @@
 <div align="center">
 
 <!-- Social Links -->
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/yourprofile">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -95,6 +92,7 @@
 
 <div align="center">
 
+<!-- Snake Animation -->
 ![Snake animation](https://github.com/CQQN-Spark/CQQN-Spark/blob/output/github-contribution-grid-snake.svg)
 
 <p>⭐️ From <a href="https://github.com/CQQN-Spark">CQQN-Spark</a></p>
