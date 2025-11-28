@@ -93,7 +93,7 @@
 <div align="center">
 
 <!-- Snake Animation -->
-![Snake animation](https://yourusername.github.io/CQQN-Spark/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yourusername/CQQN-Spark/main/dist/github-snake.svg)
 
 <p>⭐️ From <a href="https://github.com/CQQN-Spark">CQQN-Spark</a></p>
 
